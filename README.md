@@ -62,7 +62,7 @@ Everything below is preserved in writing.
 | **Sep 23** | Submitted the requested details via Trustpilot's form. **No contact followed.** |
 | **Sep 30** | Hours after my review update documenting the silence, MacPaw emailed — a template: *"we would like to check in and ask if your issue is still relevant."* |
 | **Oct 3** | Replied in full: complete case summary, three requests (engineering registration in writing, refund, compensation proposal), deadline Oct 10. **No response.** |
-| **Oct 22** | Final settlement proposal: 12,000 SEK (~€1,050) covering the destroyed data, documented recovery expenses (dedicated recovery SSD, recovery software), and ~8 hours of diagnostic work. Deadline Nov 3. **No response.** |
+| **Oct 22** | Final settlement proposal: 35,000 SEK (~€3,100) covering the destroyed data and hundreds of hours of my own creative work in it, documented recovery expenses (dedicated recovery SSD, recovery software), and the diagnostic work. Deadline Nov 3. **No response.** |
 | **Nov 18** | This post. |
 
 ## Lessons — for users
