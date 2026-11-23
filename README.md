@@ -86,3 +86,5 @@ Draw your own conclusions. Mine is on my Desktop: a folder named TRANCE, recreat
 ---
 
 *Written by the affected user (Sweden). Case ticket MacPaw #1ZE21P-X42KE · Paddle order #33347125. Full evidence preserved: CleanMyMac application logs and ExtendedStatistics.db, FSEvents journal, iCloud CloudDocs databases, Spotlight stores, Disk Drill scan results, and all correspondence. Verification material and identity available to journalists and researchers on request via the repository owner.*
+
+*Had something similar happen with CleanMyMac or another cleaner? Open an issue in this repository and describe it. Documented cases help show whether this is a pattern.*
